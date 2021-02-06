@@ -1,0 +1,1 @@
+# ha-ts-vite-template
